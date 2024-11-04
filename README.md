@@ -1,7 +1,1 @@
- • Prazer, me chamo Vinicius. | 
- • Estudante de ADS pela USF (4° Semestre) | 
- Linguagens de interesse:
- ➞ Phyton
- ➞ Java
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F70000&width=435&lines=Vinicius+Fernandes+-+23+anos;Analise+e+Desenvolvimento+de+Sistemas+-+USF)](https://git.io/typing-svg)
